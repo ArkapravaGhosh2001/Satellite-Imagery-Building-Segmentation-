@@ -1,0 +1,6 @@
+checkpoint_old/
+data/
+checkpoints/
+src/__pycache__/
+notebooks/
+src/cheeckpoints/
